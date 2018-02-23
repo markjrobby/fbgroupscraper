@@ -1,5 +1,5 @@
 # fbgroupscraper
-A Python script that pull texts from every post and comments in a Facebook group using Facebook's Graph API
+A Python script that pull texts from every post and comments in a Facebook group using Facebook's Graph API and display the most common words in a Word Cloud
 
 ## Instructions
 1. Clone the repo and create a virtualenv and activate it
